@@ -1,7 +1,0 @@
-stupid = True
-
-if stupid:
-    while True:
-        print(21)
-else:
-    print("hello world")
